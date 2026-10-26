@@ -9,7 +9,7 @@ Atualmente estou no **2º semestre do curso de DSM**, construindo uma base sóli
 - **FATEC Diadema**
   Tecnologia em Desenvolvimento de Software Multiplataforma
   2º semestre
-  Previsão de conclusão: [ano]
+  Previsão de conclusão: 2028
 
 ## Tecnologias
 
@@ -47,4 +47,4 @@ Sou fundador da **ForjAds**, uma operação digital independente em que uso Face
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-gomes-91416532b/)
