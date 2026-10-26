@@ -33,11 +33,10 @@ Tenho interesse em construir minha carreira como **Engenheiro de Software**, evo
 
 Os projetos que desenvolvo registram minha evolução, desde os fundamentos de HTML, CSS e JavaScript até aplicações mais completas e integradas.
 
-- **Site de organização regional de xadrez:** projeto multipágina com Bootstrap 5, cadastro e sessão de usuário com localStorage e painel administrativo com CRUD.
-- **FaunaAlerta:** plataforma de denúncias de fauna, desenvolvida a partir de um design no Figma com Bootstrap 5 e JavaScript puro.
-- **Landing page de assinatura automotiva:** site de uma página com planos, mapa interativo (Leaflet.js), formulários de login/cadastro e botão de contato via WhatsApp.
-- **To-Do List:** aplicação com localStorage e JavaScript modular, versionada com Git e GitHub.
-- **Visão Computacional:** projeto em Python com OpenCV que captura vídeo da webcam em tempo real.
+- **[Manccini Landing](https://github.com/Kevingms-dev/Manccini_landing):** meu primeiro projeto de landing page, feito para um salão de cabeleireiro e desenvolvido em TypeScript.
+- **[Fauna Alerta](https://github.com/MatheusLopes11/FaunaAlerta):** projeto interdisciplinar da faculdade, uma plataforma de denúncias de fauna desenvolvida em equipe e baseada em um design pensado.
+- **[Visão Computacional](https://github.com/Kevingms-dev/Visao-Computacional):** projeto pessoal em Python com OpenCV, que captura e exibe vídeo da webcam em tempo real, além de adicionar filtros como preto e branco.
+- **[Code Practice Python](https://github.com/Kevingms-dev/Code_pratice_Python):** repositório de prática em Python com exercícios e estudos acadêmicos.
 
 [![Acessar Portfólio](https://img.shields.io/badge/ACESSAR_PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_SEU_PORTFOLIO)
 
