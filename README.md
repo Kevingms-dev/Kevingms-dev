@@ -1,13 +1,12 @@
-# Kevin-Gomes
 # Kevin Afonso de Jesus Gomes
 
-Olá, tudo bem? Estou cursando ensino superior em **Desenvolvimento de Software Multiplataforma** na **FATEC**, com foco em **desenvolvimento Front-end**. Também crio e vendo soluções digitais de forma independente, o que me aproxima do lado prático e comercial da tecnologia.
+Olá, tudo bem? Estou cursando ensino superior em **Desenvolvimento de Software Multiplataforma** na **FATEC**, com foco em **desenvolvimento Full-Stack**. Também crio e vendo soluções digitais de forma independente, o que me aproxima do lado prático e comercial da tecnologia.
 
 Atualmente estou no **2º semestre do curso de DSM**, construindo uma base sólida em programação por meio de estudos, projetos práticos e evolução contínua das minhas habilidades técnicas.
 
 ## Formação
 
-- **FATEC [unidade]**
+- **FATEC Diadema**
   Tecnologia em Desenvolvimento de Software Multiplataforma
   2º semestre
   Previsão de conclusão: [ano]
@@ -26,9 +25,9 @@ Atualmente estou no **2º semestre do curso de DSM**, construindo uma base sóli
 
 ## Objetivo Profissional
 
-Busco uma oportunidade de **estágio em desenvolvimento Front-end**, onde eu possa aplicar o que venho aprendendo, crescer com profissionais experientes e contribuir para soluções reais.
+Busco uma oportunidade de **estágio em desenvolvimento**, onde eu possa aplicar o que venho aprendendo, crescer com profissionais experientes e contribuir para soluções reais.
 
-Tenho interesse em construir minha carreira como **Desenvolvedor Front-end**, evoluindo continuamente por meio de estudos, projetos práticos e desafios profissionais.
+Tenho interesse em construir minha carreira como **Engenheiro de Software**, evoluindo continuamente por meio de estudos, projetos práticos e desafios profissionais.
 
 ## Projetos
 
