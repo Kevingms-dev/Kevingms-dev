@@ -38,7 +38,7 @@ Os projetos que desenvolvo registram minha evolução, desde os fundamentos de H
 - **[Visão Computacional](https://github.com/Kevingms-dev/Visao-Computacional):** projeto pessoal em Python com OpenCV, que captura e exibe vídeo da webcam em tempo real, além de adicionar filtros como preto e branco.
 - **[Code Practice Python](https://github.com/Kevingms-dev/Code_pratice_Python):** repositório de prática em Python com exercícios e estudos acadêmicos.
 
-[![Acessar Portfólio](https://img.shields.io/badge/ACESSAR_PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_SEU_PORTFOLIO)
+[![Acessar Portfólio](https://img.shields.io/badge/ACESSAR_PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevingms-dev?tab=repositories)
 
 ## Além do código
 
